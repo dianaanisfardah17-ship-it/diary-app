@@ -76,26 +76,30 @@ Jika perlu membersihkan cache Expo, jalankan:
 ```bash
 npx expo start -c
 ```
-📚 Komponen dan Konsep Praktikum
-Komponen/Konsep	Fungsi
-`View`	Mengelompokkan dan menyusun elemen antarmuka.
-`Text`	Menampilkan teks pada aplikasi.
-`Image`	Menampilkan gambar dan avatar.
-`ScrollView`	Memungkinkan daftar catatan digulir.
-`StyleSheet`	Mengatur gaya dan tampilan komponen.
-Flexbox	Mengatur posisi dan tata letak elemen.
-Props	Mengirim data dari komponen induk ke komponen anak.
-`map()`	Membentuk kartu berdasarkan data catatan.
-Reusable component	Menggunakan kembali komponen `DiaryCard`.
-👩🏻‍💻 Informasi Praktikum
-Keterangan	Informasi
-Nama	Diana Anis Fardah
-NIM	2430511046
-Program Studi	Teknik Informatika
-Fakultas	Sains dan Teknologi
-Universitas	Universitas Muhammadiyah Sukabumi
-Mata Kuliah	Mobile Programming
-Praktikum	Pertemuan 2 — Struktur Project dan Komponen Dasar
-📝 Catatan
-Proyek ini dibuat untuk keperluan pembelajaran dan praktikum. Dokumentasi ini dapat diperbarui mengikuti perubahan fitur dan source code aplikasi.
+## 📚 Komponen dan Konsep Praktikum
+
+| Komponen/Konsep | Fungsi |
+|---|---|
+| `View` | Mengelompokkan dan menyusun elemen antarmuka. |
+| `Text` | Menampilkan teks pada aplikasi. |
+| `Image` | Menampilkan gambar dan avatar. |
+| `ScrollView` | Memungkinkan daftar catatan digulir. |
+| `StyleSheet` | Mengatur gaya dan tampilan komponen. |
+| Flexbox | Mengatur posisi dan tata letak elemen. |
+| Props | Mengirim data dari komponen induk ke komponen anak. |
+| `map()` | Membentuk kartu berdasarkan data catatan. |
+| Reusable component | Menggunakan kembali komponen `DiaryCard`. |
+
+## 👩🏻‍💻 Informasi Praktikum
+
+| Keterangan | Informasi |
+|---|---|
+| Nama | Diana Anis Fardah |
+| NIM | 2430511046 |
+| Program Studi | Teknik Informatika |
+| Fakultas | Sains dan Teknologi |
+| Universitas | Universitas Muhammadiyah Sukabumi |
+| Mata Kuliah | Mobile Programming |
+| Praktikum | Pertemuan 2 — Struktur Project dan Komponen Dasar |
+
 ---

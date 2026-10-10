@@ -25,35 +25,40 @@ Aplikasi buku harian sederhana yang dikembangkan menggunakan React Native dan Ex
 
 Buka terminal atau CMD, lalu jalankan perintah berikut:
 
+```bash
 git clone https://github.com/dianaanisfardah17-ship-it/diary-app.git
+```
 
 2. Masuk ke Folder Proyek
-
+   
+```bash
 cd diary-app
+```
 
 3. Instal Dependensi
 
 Pastikan Node.js sudah terinstal, kemudian jalankan:
 
+```bash
 npm install
-
+```
 Tunggu sampai proses instalasi selesai.
 
 4. Jalankan Aplikasi
 
 Jalankan perintah berikut untuk memulai Expo:
 
+```bash
 npx expo start
+```
 
 5. Buka Aplikasi
 
 Setelah Expo berjalan, aplikasi dapat dibuka dengan salah satu cara berikut:
 
-- HP Android: Pindai QR code menggunakan Expo Go jika versi Expo dan perangkat mendukung.
-- Android Emulator: Tekan tombol "a" pada terminal Expo untuk membuka aplikasi di emulator yang sudah berjalan.
+- HP Android: Pindai QR code menggunakan Expo Go.
+- Android Emulator: Tekan tombol "a" pada terminal Expo jika emulator sudah berjalan.
 - Browser: Tekan tombol "w" jika proyek mendukung versi web.
-
-Pastikan perangkat dan komputer terhubung ke jaringan yang sesuai jika menggunakan QR code.
    
 📁 Struktur Proyek
 ```text

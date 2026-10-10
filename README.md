@@ -82,3 +82,7 @@ diary-app/
 ├── package-lock.json
 └── README.md
 ```
+
+## Screenshot Aplikasi
+
+![Tampilan Diary App](screenshot/diary-home.jpeg)

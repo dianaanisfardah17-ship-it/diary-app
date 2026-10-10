@@ -1,6 +1,6 @@
 # 📔 Diary App — React Native & Expo
 
-Aplikasi buku harian sederhana yang dikembangkan menggunakan React Native dan Expo CLI untuk tugas Praktikum Mobile Multi Platform Pertemuan 2: Struktur Project dan Komponen Dasar.
+Aplikasi buku harian sederhana yang dikembangkan menggunakan React Native dan Expo CLI untuk tugas Praktikum Mobile Multi Platform Pertemuan 
 
 ## Identitas Mahasiswa
 

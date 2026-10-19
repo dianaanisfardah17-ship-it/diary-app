@@ -22,10 +22,12 @@
 - Skeleton loader ditampilkan sebagai penanda saat menunggu data.
  
 ## Screenshot
-![Diary App Tampilan 1 Kolom](./screenshots/1-Kolom.jpeg)
+
+### Tampilan 1 Kolom
+![Diary App Tampilan 1 Kolom](./screenshot/1-Kolom.jpeg)
 
 ### Tampilan 2 Kolom
-![Diary App Tampilan 2 Kolom](./screenshots/2-kolom.png)
+![Diary App Tampilan 2 Kolom](./screenshot/2-kolom.png)
  
 ## Catatan Breakpoint 600 px
 Lebar layar dibaca dengan useWindowDimensions. Jika width >= 600,
